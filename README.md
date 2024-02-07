@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravijainwk12
+- 👋 Hello, My name is Ravi Jain.
 - 👀 I’m interested in Core WebDev
 - 🌱 Currently learning ...web Development
 - 📫 ravijainwk12@gmail.com
