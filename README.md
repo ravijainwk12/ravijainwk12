@@ -1,4 +1,4 @@
 - 👋 Hello, My name is Ravi Jain.
 - 👀 I’m interested in Core WebDev
-- 🌱 Currently learning ...web Development
+- 🌱 Currently learning ...web Development MERN tech.
 - 📫 ravijainwk12@gmail.com
