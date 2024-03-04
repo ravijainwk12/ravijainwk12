@@ -1,4 +1,4 @@
 - 👋 Hello, My name is Ravi Jain.
-- 👀 I’m interested in Core WebDev
+- 👀 HTML | CSS | JavaScript | NodeJs | ExpressJs | MongoDB 
 - 🌱 Currently learning ...web Development MERN tech.
 - 📫 ravijainwk12@gmail.com
