@@ -1,4 +1,3 @@
-- 👋 Hello, My name is Ravi Jain.
-- 👀 HTML | CSS | JavaScript | NodeJs | ExpressJs | MongoDB 
-- 🌱 Currently learning ...web Development MERN tech.
+- 👋 Hi, This is Ravi Jain.
+- 👀 HTML | CSS | JavaScript | MongoDB | ExpressJs | React | Node.Js 
 - 📫 rjravijain09@gmail.com
